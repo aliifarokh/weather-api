@@ -1,4 +1,3 @@
-
 Hello everyone this my new mini-project <br />
 project name : Weather Api <br />
 technologies : React js , CSS <br />
